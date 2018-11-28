@@ -1,5 +1,8 @@
 # Symfony certification katas.
 
+Covered katas:
+- [Symfony: Security - Authentication](https://university.sensiolabs.com/katas/002)
+
 ### Installation
 
 With composer:
